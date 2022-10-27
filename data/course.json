@@ -1,7 +1,6 @@
 [
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-    "category_id": "01",
     "rating": {
       "number": 4.5,
       "badge": "Excellent"
@@ -14,7 +13,6 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-    "category_id": "03",
     "rating": {
       "number": 4.5,
       "badge": "Excellent"
@@ -27,7 +25,6 @@
   },
   {
     "_id": "f69a695f037cd9484cecaea37ca71011",
-    "category_id": "01",
     "rating": {
       "number": 4.8,
       "badge": "Excellent"
@@ -40,7 +37,6 @@
   },
   {
     "_id": "f69a695f037cd9484cecaea37ca71012",
-    "category_id": "02",
     "rating": {
       "number": 4.3,
       "badge": "Excellent"
@@ -53,7 +49,6 @@
   },
   {
     "_id": "11468ed61aee84de492a8b04158a22f9",
-    "category_id": "03",
     "rating": {
       "number": 4.5,
       "badge": "Excellent"
@@ -66,7 +61,6 @@
   },
   {
     "_id": "11468ed61aee84de492a8b04158a22f0",
-    "category_id": "01",
     "rating": {
       "number": 4.5,
       "badge": "Excellent"
