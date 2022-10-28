@@ -23,7 +23,7 @@ app.get('/course', (req, res) => {
 
 app.get('/course/:id', (req, res) => {
     const id = req.params.id;
-    const selectedCourse = news.find(n => n._id === id);
+    const selectedCourse = course.find(n => n._id === id);
     res.send(selectedCourse);
 });
 
